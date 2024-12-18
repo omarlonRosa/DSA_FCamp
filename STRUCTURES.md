@@ -66,7 +66,7 @@ Left f be a function that describes the running time of a particular algorithm f
          f(n) = 7log(n)³ + 15n² + 2n³ + 8 <br>
                  O(f(n)) = <span style="color:orange">O(n³)</span>
 
- // Pratical example coming up don't worry
+ <!-- Pratical example coming up don't worry. --> 
 
 The following run in linear time: <span style="color:orange">O(n) </span> 
  <div style="display:inline-flex; justify-content: space-between;">
